@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lucas-farias07
-- 👀 I’m interested in Machine Learning and Python
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: via e-mail lucascsgf@gmail.com
+- 👋 Hi, I’m Lucas 
+- 👀 I’m interested in ... python
+- 🌱 I’m currently learning ... machine learning
 
 <!---
 lucas-farias07/lucas-farias07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
