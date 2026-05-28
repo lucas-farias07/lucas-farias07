@@ -28,7 +28,7 @@ My codeberg profile with other projects: https://codeberg.org/lucasgfarias
 
 ###
 
-<p align="left">I'm Lucas from Florianópolis, Brazil<br><br>- 🔭 I’m working as a junior full stack developer<br>- 📚 I'm currently learning C and PL/SQL<br>- ⚡ In my free time I play games and customise my computer.<br><br>I use arch btw</p>
+<p align="left">I'm Lucas from Florianópolis, Brazil<br><br>- 🔭 I’m working as full stack developer with C#, PL/SQL and WebForms<br>- 📚 I'm currently learning C and Python<br>- ⚡ In my free time I play games and mess with my linux.</p>
 
 ###
 
