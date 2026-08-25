@@ -1,7 +1,7 @@
 My codeberg profile with other projects: https://codeberg.org/lucasgfarias
 
-<div align="center">
-  <img width="150" style="image-rendering: pixelated;" src="https://raw.githubusercontent.com/cursethrower/crystal-sprites/master/pokemon/normal/gif/135_Jolteon.gif" />
+<div  align="center">
+  <img width="150" style="image-rendering: pixelated;" src="https://raw.githubusercontent.com/cursethrower/crystal-sprites/master/pokemon/normal/gif/135_Jolteon.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ###
