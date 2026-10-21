@@ -22,7 +22,7 @@ My codeberg profile with other projects: https://codeberg.org/lucasgfarias
 
 ###
 
-<p align="left">I'm Lucas from Florianópolis, Brazil<br><br>- 🔭 I’m working as full stack developer with C#, PL/SQL and WebForms<br>- 📚 I'm currently learning C and Python<br>- ⚡ In my free time I build stuff and play videogames.</p>
+<p align="left">I'm Lucas from Florianópolis, Brazil<br><br>- 🔭 I’m working as full stack developer with C#, PL/SQL and WebForms<br>- 📚 I'm currently learning Zig and Go<br>- ⚡ In my free time I build stuff and play videogames.</p>
 
 ###
 
