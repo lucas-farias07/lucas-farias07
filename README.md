@@ -51,13 +51,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
 </div>
 
-<h3>📫 Contact</h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/lucasgfarias/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="LinkedIn" />
-  </a>
-  <br>lucasgfarias@proton.me
-</p>
-
 <p>You can find me and my other projects on <a href="https://codeberg.org/lucasgfarias">Codeberg</a> too.</p>
