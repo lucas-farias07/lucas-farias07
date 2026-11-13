@@ -1,71 +1,63 @@
-My codeberg profile with other projects: https://codeberg.org/lucasgfarias
+<img align="left" width="140" src="https://raw.githubusercontent.com/cursethrower/crystal-sprites/master/pokemon/normal/gif/135_Jolteon.gif" alt="Jolteon sprite" />
 
-<div  align="center">
-  <img width="150" style="image-rendering: pixelated;" src="https://raw.githubusercontent.com/cursethrower/crystal-sprites/master/pokemon/normal/gif/135_Jolteon.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<h3>hello there!</h3>
 
-###
+<p>I'm Lucas from Florianópolis, Brazil. I'm a full-stack .NET developer and a partner at Integração ERP Sistemas, currently placed at SEFAZ/SC through the company's contract with the state government.</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-gerent-de-farias-54aaaa263/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-</div>
+<br><br>
 
-###
+<p>
+🔭 I work with C#, ASP.NET (MVC and WebForms), .NET 8, SQL Server, PostgreSQL and Oracle PL/SQL<br>
+📚 I'm currently learning Go and Rust<br>
+⚡ In my free time I build side projects and play video games
+</p>
 
-<h1 align="center">hello there!</h1>
 
-###
+<br clear="left" />
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3>🚀 Projects</h3>
 
-###
+<p>
+- <a href="https://github.com/lucas-farias07/jolt"><b>Jolt</b></a> – local all-in-one organizer web app. Python (Flask) backend, front end migrating from Svelte to React. In development.<br>
+- <a href="https://github.com/lucas-farias07/battleship"><b>Battleship</b></a> – terminal battleship game in C#, with my own algorithm for random ship placement.<br>
+- <a href="https://github.com/lucas-farias07/windowrun"><b>Windowrun</b></a> – fzf-based app launcher in shell and Python.
+</p>
 
-<p align="left">I'm Lucas from Florianópolis, Brazil<br><br>- 🔭 I’m working as full stack developer with C#, PL/SQL and WebForms<br>- 📚 I'm currently learning Zig and Go<br>- ⚡ In my free time I build stuff and play videogames.</p>
+<br>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3>🛠 Languages and tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="40" alt="SQLAlchemy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img src="https://cdn.simpleicons.org/pandas/E70488" height="40" alt="Pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="40" alt="tortoisegit logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
 </div>
 
+<h3>📫 Contact</h3>
 
-###
-<!---
-lucas-farias07/lucas-farias07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <a href="https://www.linkedin.com/in/lucasgfarias/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="LinkedIn" />
+  </a>
+  <br>lucasgfarias@proton.me
+</p>
+
+<p>You can find me and my other projects on <a href="https://codeberg.org/lucasgfarias">Codeberg</a> too.</p>
