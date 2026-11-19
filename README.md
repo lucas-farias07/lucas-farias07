@@ -19,8 +19,8 @@
 
 <p>
 - <a href="https://github.com/lucas-farias07/jolt"><b>Jolt</b></a> – local all-in-one organizer web app. Python (Flask) backend, front end migrating from Svelte to React. In development.<br>
-- <a href="https://github.com/lucas-farias07/battleship"><b>Battleship</b></a> – terminal battleship game in C#, with my own algorithm for random ship placement.<br>
 - <a href="https://github.com/lucas-farias07/windowrun"><b>Windowrun</b></a> – fzf-based app launcher, now written in Go!
+- <a href="https://github.com/lucas-farias07/battleship"><b>Battleship</b></a> – terminal battleship game in C#, with my own algorithm for random ship placement.<br>
 </p>
 
 <br>
