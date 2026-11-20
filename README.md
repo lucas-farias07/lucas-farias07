@@ -8,7 +8,7 @@
 
 <p>
 🔭 I work with C#, ASP.NET (MVC and WebForms), .NET 8, SQL Server, PostgreSQL and Oracle PL/SQL<br>
-📚 I'm currently learning Go and Rust<br>
+📚 I'm currently learning Go<br>
 ⚡ In my free time I build side projects and play video games
 </p>
 
