@@ -2,23 +2,22 @@
 
 <h3>hello there!</h3>
 
-<p>I'm Lucas! I live in Brazil in the city Florianópolis (UTC-3). I'm a full-stack .NET developer and a partner at Integração ERP Sistemas, currently placed at SEFAZ/SC through the company's contract with the state government. I also like building quick projects with Python and recently I have been picking up Go, as you can see in my project Windowrun below. I like going to the gym and playing computer and board games. My favorite pokémon is (you probably noticed) Jolteon.</p>
+<p>I'm Lucas! I live in Brazil in the city Florianópolis (UTC-3). I'm a full-stack .NET (ASP.NET MVC and WebForms) software engineer and a partner at Integração ERP Sistemas, currently placed at SEFAZ/SC through the company's contract with the state government. Recently I have been picking up Go, as you can see in my projects Windowrun and Ravenix below. I like going to the gym and playing computer and board games.</p>
 
-<br>
+<h3>💼 Experience</h3>
 
-<p>
-🔭 I work with C#, ASP.NET (MVC and WebForms), .NET 8, SQL Server, PostgreSQL and Oracle PL/SQL<br>
-📚 I'm currently learning how to make an anti-virus and Go<br>
-⚡ Focusing on the Windowrun project and a new nix-first anti-virus
-</p>
+<p><b>Integração ERP Sistemas</b> – Partner & Full-Stack .NET Developer <i>(Jan 2025 – present)</i><br>
+A queue-based service distributing 1,000+ daily credit proposals (.NET 8, SQL Server), a log manager that cut tables from 1M+ rows to 50–70k, legacy VB-to-C# migration, and Gestor Car Service (ASP.NET MVC, PostgreSQL, Docker).</p>
 
+<p><b>SEFAZ/SC</b> – via Integração ERP's state contract <i>(Nov 2025 – present)</i><br>
+Full-stack work on the state's tax enforcement and price-index systems (ASP.NET MVC and WebForms, .NET Framework 4.8, Oracle PL/SQL).</p>
 
 <h3>🚀 Projects</h3>
 
 <p>
 - <a href="https://github.com/lucas-farias07/jolt"><b>Jolt</b></a> – local all-in-one organizer web app. Python (Flask) backend, front end migrating from Svelte to React. In development.<br>
 - <a href="https://github.com/lucas-farias07/windowrun"><b>Windowrun</b></a> – fzf-based app launcher, now written in Go!<br>
-  - <a href="https://github.com/lucas-farias07/ravenix"><b>Ravenix</b></a> – a nix-first anti-virus and system audit tool that is still very raw.<br>
+  - <a href="https://github.com/lucas-farias07/ravenix"><b>Ravenix</b></a> – a nix-first system audit tool that is still very raw.<br>
 - <a href="https://github.com/lucas-farias07/battleship"><b>Battleship</b></a> – terminal battleship game in C#, with my own algorithm for random ship placement.<br>
 </p>
 
