@@ -2,7 +2,7 @@
 
 <h3>hello there!</h3>
 
-<p>I'm Lucas! I live in Brazil in the city Florianópolis (UTC-3). I'm a full-stack .NET (ASP.NET MVC and WebForms) software engineer and a partner at Integração ERP Sistemas, currently placed at SEFAZ/SC through the company's contract with the state government. Recently I have been picking up Go, as you can see in my projects Windowrun and Ravenix below. I like going to the gym and playing computer and board games.</p>
+<p>I'm Lucas! I live in Brazil in the city Florianópolis (UTC-3). I'm a full-stack .NET (ASP.NET MVC and WebForms) software engineer and a partner at Integração ERP Sistemas, currently placed at SEFAZ/SC through the company's contract with the state government. Recently I have been picking up Go, as you can see in my projects Windowrun and Ravenix below. I like going to the gym and playing computer and board games. Open to remote roles.</p>
 
 <h3>💼 Experience</h3>
 
